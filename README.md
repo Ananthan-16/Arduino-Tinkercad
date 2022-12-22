@@ -7,4 +7,5 @@
 ![image](https://user-images.githubusercontent.com/118927277/209128933-97829914-e674-4665-98bf-53d2121cd0b2.png)
 #Measure temperature with Temperature sensor
 ![image](https://user-images.githubusercontent.com/118927277/209133337-f4a1efb7-b90d-45a6-9464-c05e83e7e560.png)
-
+# To control a servo motor
+![image](https://user-images.githubusercontent.com/118927277/209136058-9068527c-53ab-4aed-b579-f581369d471d.png)
