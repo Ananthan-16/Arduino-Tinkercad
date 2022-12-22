@@ -6,4 +6,5 @@
 #Control LED with potentiometer
 ![image](https://user-images.githubusercontent.com/118927277/209128933-97829914-e674-4665-98bf-53d2121cd0b2.png)
 #Measure temperature with Temperature sensor
-![image](https://user-images.githubusercontent.com/118927277/209132812-5bd00054-c44e-4002-bece-3f0f341472ff.png)
+![image](https://user-images.githubusercontent.com/118927277/209133337-f4a1efb7-b90d-45a6-9464-c05e83e7e560.png)
+
